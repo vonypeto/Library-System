@@ -1,0 +1,671 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OPAC
+</name>
+</assembly>
+<members>
+<member name="T:OPAC.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:OPAC.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:OPAC.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AccounttypesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AdminDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.ArticleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AuthorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book_dateDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book_IncrementDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book1BDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book2BDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book3BDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookelemDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookJHSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookSHSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.CodesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.CollegeAccDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet._Course_deptDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.freeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.gradeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Library_materDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.LogbookDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.OPACDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.PublicationDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.SectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.ServersDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.StudentAccDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.SubjectDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TeacherAccDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TeacherBookDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TopvisitDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Trans_IncreDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TransactionDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AccounttypesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AdminRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.ArticleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AuthorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book_dateRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book_IncrementRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book1BRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book2BRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book3BRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookelemRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookJHSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookSHSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.CodesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.CollegeAccRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet._Course_deptRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.freeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.gradeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Library_materRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.LogbookRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.OPACRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.PublicationRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.SectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.ServersRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.StudentAccRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.SubjectRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TeacherAccRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TeacherBookRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TopvisitRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Trans_IncreRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TransactionRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AccounttypesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AdminRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.ArticleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.AuthorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book_dateRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book_IncrementRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book1BRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book2BRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Book3BRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookelemRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookJHSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.BookSHSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.CodesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.CollegeAccRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet._Course_deptRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.freeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.gradeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Library_materRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.LogbookRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.OPACRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.PublicationRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.SectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.ServersRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.StudentAccRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.SubjectRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TeacherAccRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TeacherBookRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TopvisitRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.Trans_IncreRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSet.TransactionRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.AccounttypesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.AdminTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.ArticleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.AuthorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.Book_dateTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.Book_IncrementTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.Book1BTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.Book2BTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.Book3BTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.BookelemTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.BookJHSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.BookSHSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.CodesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.CollegeAccTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.Course_deptTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.freeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.gradeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.Library_materTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.LogbookTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.OPACTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.PublicationTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.SectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.ServersTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.StudentAccTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.SubjectTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.TeacherAccTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.TeacherBookTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.TopvisitTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.Trans_IncreTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.TransactionTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:OPAC.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(OPAC.TCCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:OPAC.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(OPAC.TCCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:OPAC.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(OPAC.TCCLibraryDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:OPAC.TCCLibraryDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:OPAC.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateAll(OPAC.TCCLibraryDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:OPAC.TCCLibraryDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
